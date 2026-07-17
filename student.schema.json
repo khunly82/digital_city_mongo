@@ -1,6 +1,6 @@
 {
     "type": "object",
-    "required": ["id", "last_name", "first_name", "section"],
+    "required": ["id", "last_name", "first_name", "section", "cours"],
     "properties": {
         "id": { "type": "integer", "minimum": 1 },
         "last_name": { 
@@ -23,6 +23,7 @@
                 "name": { "type": "string" }
             }
         },
-        "gender": {  "enum": ["MALE", "FEMALE", "OTHER"] }
+        "gender": { "enum": ["MALE", "FEMALE", "OTHER"] },
+        "cours": { "type":"array", "items": { "enum": ["Geo", "Math", "Histoire"] }, "uniqueItems": true, "minItems": 1 }
     }
 }

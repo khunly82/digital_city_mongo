@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/38dcafd1-e519-41b3-b585-87037144f8e4/console.js" value="38dcafd1-e519-41b3-b585-87037144f8e4" />
+    <file url="file://$PROJECT_DIR$/ddl.js" value="38dcafd1-e519-41b3-b585-87037144f8e4" />
+    <file url="file://$PROJECT_DIR$/exo_ddl.js" value="38dcafd1-e519-41b3-b585-87037144f8e4" />
+  </component>
+</project>
