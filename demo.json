@@ -1,0 +1,15 @@
+{
+    "name": "LY",
+    "first_name": "Khun",
+    "age": 44,
+    "address": {
+        "street": "Rue ...",
+        "numero": 42,
+        "city": {
+            "name": "Namur",
+            "cp": "5000"
+        }
+    },
+    "is_dev": true,
+    "skills": ["mongo", "sql", "javascript"]
+}

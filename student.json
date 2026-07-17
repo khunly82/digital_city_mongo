@@ -1,0 +1,11 @@
+{
+    "$schema": "./student.schema.json",
+    "id": 42,
+    "first_name": "LY",
+    "last_name": "Khun",
+    "section": {
+        "id": 1024, 
+        "name": "Math"
+    },
+    "gender": "MALE"
+}
